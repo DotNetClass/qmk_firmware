@@ -5,6 +5,7 @@ on:
     branches:
     - master
     - future
+    - DotNetClass
   pull_request:
     paths:
     - 'lib/python/**'
